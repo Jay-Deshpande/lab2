@@ -8,4 +8,5 @@ I set the geo search crawler to run for 30 minutes and filter tweets using the k
 Although there is not much data, some patterns seem to be evident. Most of the activity is clustered around California and the East Coast. Additionally, the Midwest is nearly empty and the South is sparsely populated. This makes sense: the coasts are the most densely populated areas of the country and people there are more likely to use twitter. 
 
 ## Map of Tweets Containing Keyword 'Biden', World
-![Image](img/tweetsWorld.jpeg
+![Image](img/tweetsWorld.jpeg)
+ In a map of world tweets about 'biden,' one would expect to see some tweets from the UK or other parts of Western Europe and Australia. Interestingly, a number of tweets from various South American countries were logged, which is not something that I expected from the results.
